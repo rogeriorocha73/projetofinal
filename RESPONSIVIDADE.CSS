@@ -1,0 +1,55 @@
+header{
+    background-image: url(nervous2-30.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    padding-left:80px ;
+    padding-top: 20px;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    padding: 100;
+    margin: 300;
+    margin-left: 800px;
+    margin-top: 200px;
+    transition: font-size 3.5s;
+
+}
+
+ul{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(113, 16, 36);
+}
+
+h2:hover{
+    font-size: 50px;
+}
+
+.linha{
+    height: 10px;
+    animation-name: linha;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes linha {
+    from{
+        background-color: black;
+    }
+    to{
+background-color: #31312F;
+    }
+}
+
+
+div{
+    display: flexbox;
+}

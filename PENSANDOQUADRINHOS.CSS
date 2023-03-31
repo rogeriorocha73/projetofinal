@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#PESQUISA{
+    background-color: bisque;
+    border: none;
+}
+#PESQUISA:hover{
+    background-color: gray;
+}
+header{
+    background-image: url(FUNDO\ SITE\ com\ balão.png);
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: bottom;
+
+height: 100vh;
+width: 100vw;
+
+}
+.object{
+    background-color: rgb(21, 21, 21);
+    padding-top:30px ;
+    padding-bottom: 10px;
+    width: 100vw;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.banner{
+    width: 1300px;
+
+
+}
+header>h1{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+                top: 60%;
+                transform: translate(0,-50%);
+                right: 140px;
+
+
+}
+h1{
+    color: rgb(90, 130, 130);
+}
+
+#barra{
+    height: 8vh;
+
+}
+
+#bd
+
+{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(144, 165, 42);
+    background-image: url("BLACK\ HAMMER.jpg");
+    background-size: cover;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+}
+#ba
+
+{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(144, 165, 42);
+    background-image: url("Art_of_Jean_Giraud_Moebius_1.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+#bc{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(144, 165, 42);
+    background-image: url("FLAVIO\ COLIN.png");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+
+}
+
+#bh{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(144, 165, 42);
+    background-image: url("blob_y62x.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+
+}
+.m4{
+    display: flex;
+    background-color: rgb(21, 21, 21);
+    width: 100vw;
+    align-items: center;
+    color: aliceblue;
+}
+.container{
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+.m1{
+    display: flex;
+    background-color: rgb(21, 21, 21);
+    width: 100vw;
+    align-items: center;
+    color: aliceblue;
+}
+
+.m2{
+    display: flex;
+    background-color: rgb(21, 21, 21);
+    width: 100vw;
+    align-items: center;
+    color: aliceblue;
+}
+.m3{
+    display: flex;
+    background-color: rgb(21, 21, 21);
+    width: 100vw;
+    align-items: center;
+    color: aliceblue;
+}
+
+.texto h1{
+   color: #277474;
+}
+
+#carouselExample{
+    position: relative;
+    left: 800px;
+
+    top: 400px;
+    width: 400px;
+    height: 500px;
+}
+

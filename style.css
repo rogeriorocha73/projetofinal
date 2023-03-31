@@ -1,0 +1,26 @@
+header{
+    background-color: blue;
+    height: 60px;
+    display: flex;
+
+}
+
+#a{
+
+    width: 20px;
+    height: 20px;
+    background-color: aqua;
+    order: 2;
+}
+#b{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(212, 255, 0);
+    order: 1;
+}
+#c{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(119, 0, 255);
+    order: 3;
+}

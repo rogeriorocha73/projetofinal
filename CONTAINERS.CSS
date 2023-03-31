@@ -1,0 +1,59 @@
+header
+{background-color: blueviolet;
+
+display: flex;
+justify-content: center;
+background-image: url(Nubank.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+}
+
+#bc
+
+{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+#bd
+
+{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(144, 165, 42);
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+#bt
+
+{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(196, 31, 127);
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+#hc{width: 30px;
+    height: 30px;
+    background-color: rgb(241, 192, 31);
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+.segunda{
+    height: 20px;
+    background-color: rgb(205, 29, 245);
+    margin-top: 5px;
+}
+
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
